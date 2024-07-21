@@ -1,0 +1,14 @@
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/Question2_And_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/Question2_And_3.AssemblyInfoInputs.cache
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/Question2_And_3.AssemblyInfo.cs
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/Question2_And_3.csproj.CoreCompileInputs.cache
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/bin/Debug/net6.0/Question2_And_3
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/bin/Debug/net6.0/Question2_And_3.deps.json
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/bin/Debug/net6.0/Question2_And_3.runtimeconfig.json
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/bin/Debug/net6.0/Question2_And_3.dll
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/bin/Debug/net6.0/Question2_And_3.pdb
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/Question2_And_3.dll
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/refint/Question2_And_3.dll
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/Question2_And_3.pdb
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/Question2_And_3.genruntimeconfig.cache
+/Users/ujee/Downloads/Developer Assessment/Solution/Question2_And_3/obj/Debug/net6.0/ref/Question2_And_3.dll

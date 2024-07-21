@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SphesihleJ\\Music\\New \u0026 Updated Systems\\JSD tests\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5EED34-917D-42DD-858C-93BC7977CA8D}|Question2_And_3\\Question2_And_3.csproj|c:\\users\\sphesihlej\\music\\new \u0026 updated systems\\jsd tests\\solution\\question2_and_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5EED34-917D-42DD-858C-93BC7977CA8D}|Question2_And_3\\Question2_And_3.csproj|solutionrelative:question2_and_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5EED34-917D-42DD-858C-93BC7977CA8D}|Question2_And_3\\Question2_And_3.csproj|c:\\users\\sphesihlej\\music\\new \u0026 updated systems\\jsd tests\\solution\\question2_and_3\\staticmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5EED34-917D-42DD-858C-93BC7977CA8D}|Question2_And_3\\Question2_And_3.csproj|solutionrelative:question2_and_3\\staticmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SphesihleJ\\Music\\New \u0026 Updated Systems\\JSD tests\\Solution\\Question2_And_3\\Program.cs",
+              "RelativeDocumentMoniker": "Question2_And_3\\Program.cs",
+              "ToolTip": "C:\\Users\\SphesihleJ\\Music\\New \u0026 Updated Systems\\JSD tests\\Solution\\Question2_And_3\\Program.cs",
+              "RelativeToolTip": "Question2_And_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:04:08.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticMethods.cs",
+              "DocumentMoniker": "C:\\Users\\SphesihleJ\\Music\\New \u0026 Updated Systems\\JSD tests\\Solution\\Question2_And_3\\StaticMethods.cs",
+              "RelativeDocumentMoniker": "Question2_And_3\\StaticMethods.cs",
+              "ToolTip": "C:\\Users\\SphesihleJ\\Music\\New \u0026 Updated Systems\\JSD tests\\Solution\\Question2_And_3\\StaticMethods.cs",
+              "RelativeToolTip": "Question2_And_3\\StaticMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:00:03.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

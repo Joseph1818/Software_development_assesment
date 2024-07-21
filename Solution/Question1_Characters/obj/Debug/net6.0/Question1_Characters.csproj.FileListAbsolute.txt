@@ -1,0 +1,14 @@
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/bin/Debug/net6.0/Question1_Characters
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/bin/Debug/net6.0/Question1_Characters.deps.json
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/bin/Debug/net6.0/Question1_Characters.runtimeconfig.json
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/bin/Debug/net6.0/Question1_Characters.dll
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/bin/Debug/net6.0/Question1_Characters.pdb
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/Question1_Characters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/Question1_Characters.AssemblyInfoInputs.cache
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/Question1_Characters.AssemblyInfo.cs
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/Question1_Characters.csproj.CoreCompileInputs.cache
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/Question1_Characters.dll
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/refint/Question1_Characters.dll
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/Question1_Characters.pdb
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/Question1_Characters.genruntimeconfig.cache
+/Users/ujee/Downloads/Developer Assessment/Solution/Question1_Characters/obj/Debug/net6.0/ref/Question1_Characters.dll
